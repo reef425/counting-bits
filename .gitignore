@@ -1,0 +1,4 @@
+/bin/Release/*
+/obj/Release/*
+*.swp
+*.cdp
